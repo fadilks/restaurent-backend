@@ -1,0 +1,14 @@
+{
+  "name": "restuarant-backend",
+  "version": "1.0.0",
+  "description": "backend for resturant",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js"
+  },
+  "author": "fadil",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
